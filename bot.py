@@ -13,7 +13,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Get bot token from user input (replace with the actual token provided)
-BOT_TOKEN = "8038965253:AAEsvhBncVp6-cMuyTWzmH5Jzxh0RNweURg" # IMPORTANT: Replace with your REAL bot token
+BOT_TOKEN = "YOUR-BOT-TOKEN" # IMPORTANT: Replace with your REAL bot token
 
 # PROXY CONFIGURATION - IMPORTANT: SET THIS TO YOUR PROXY OR None
 # Example: PROXY_CONFIG = "http://user:pass@your_proxy_host:port"
